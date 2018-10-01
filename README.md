@@ -1,5 +1,5 @@
 # gradient-decent
-This is the code for this video on Youtube by Siraj Raval. The dataset represents distance cycled vs calories burned. We'll create the line of best fit (linear regression) via gradient descent to predict the mapping. yes, I left out talking about the learning rate in the video, we're not ready to talk about that yet.
+This is the code for gradient decent. The dataset represents distance cycled vs calories burned. We'll create the line of best fit (linear regression) via gradient descent to predict the mapping. yes, I left out talking about the learning rate in the video, we're not ready to talk about that yet.
 
 Here are some helpful links:
 
