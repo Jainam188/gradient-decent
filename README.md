@@ -1,5 +1,5 @@
 # gradient-decent
-This is the code for gradient decent. The dataset represents distance cycled vs calories burned. We'll create the line of best fit (linear regression) via gradient descent to predict the mapping. yes, I left out talking about the learning rate in the video, we're not ready to talk about that yet.
+This is the code for gradient decent. The dataset represents distance cycled vs calories burned. We'll create the line of best fit (linear regression) via gradient descent to predict the mapping. 
 
 Here are some helpful links:
 
@@ -13,11 +13,12 @@ Partial derivative with respect to b and m (to perform gradient descent)
 https://spin.atomicobject.com/wp-content/uploads/linear_regression_gradient1.png
 
 Dependencies
+
 numpy
 Python 2 and 3 both work for this. Use pip to install any dependencies.
 
 Usage
-Just run python3 demo.py to see the results:
+Just run python3 Gradient Decent.py to see the results:
 
 Starting gradient descent at b = 0, m = 0, error = 5565.107834483211
 Running...
